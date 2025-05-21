@@ -18,8 +18,7 @@ Wetlands play a vital role in ecosystem services and biodiversity. This project 
  
 - **Analysis methods:**
   - Tasseled Cap Wetness (TCW) – Indicator of wetland moisture  
-  - Water Observations from Space (WOfS) – Surface water detection  
-  - Otsu Thresholding – Automated thresholding method for binary classification  
+  - Water Observations from Space (WOfS) – Surface water detection   
   - Fractional Cover (FC) – Vegetation cover decomposition (green, non-green, bare)  
 
 ### Sample Output
