@@ -15,4 +15,4 @@ __pycache__/
 *.csv
 
 # ignore 
-stuff.txt
+self.txt
