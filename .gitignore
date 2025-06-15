@@ -15,4 +15,4 @@ __pycache__/
 *.csv
 
 # ignore notes
-self.txt/
+self.txt
