@@ -22,9 +22,7 @@ Wetlands play a vital role in ecosystem services and biodiversity. This project 
 
 ## Seminar Paper
 
-For the full context, methodology, results, and discussion, please read the seminar paper:
-
-[Assessing Wetland Dynamics in the Zambezi Delta – Seminar Paper](link-to-your-paper)
+For the full context, methodology, results, and discussion, please read the seminar paper:(coming soon!!)
 
 ## Sample Output
 
