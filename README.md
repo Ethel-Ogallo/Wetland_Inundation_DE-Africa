@@ -22,7 +22,7 @@ Wetlands play a vital role in ecosystem services and biodiversity. This project 
 
 ## Seminar Paper
 
-For the full context, methodology, results, and discussion, please read the seminar paper:(coming soon!!)
+For the full context, methodology, results, and discussion, please read the seminar paper [here](Paper_Ogallo.pdf)
 
 ## Sample Output
 
