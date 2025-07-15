@@ -33,7 +33,7 @@ Visualizations and animations of wetland changes over time are included in the n
 ### Acknowledgements
 Author: Ethel Ogallo  
 Supervisor: Hannah Augustine  
-[Digital Earth Africa](https://github.com/digitalearthafrica/deafrica-direct-access/blob/main/Real_world_examples/Wetland_inundation.ipynb)
+[Digital Earth Africa](https://github.com/digitalearthafrica/deafrica-direct-access/tree/main)
 
 
 
